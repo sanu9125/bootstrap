@@ -1,0 +1,24 @@
+.navbar-custom .nav-link,
+.navbar-custom .dropdown-toggle {
+  color: #dadada!important;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .dropdown-toggle:hover {
+  color: #ffffff !important; /* Slightly lighter on hover */
+}
+
+.navbar-custom .active {
+  color: rgba(223, 221, 221, 0.8) !important;
+  font-weight: bold;
+}
+
+.navbar-custom .navbar-brand{
+
+  color: white;
+}
+.dropdown-menu .dropdown-item:hover{
+
+  color: red;
+}
+
